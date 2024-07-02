@@ -9,9 +9,9 @@ presenter_location: Online
 
 key_investigators:
 
-- name: Kate Akhmad
-  affiliation: ???
-  country: ???
+- name: Ekaterina Akhmad
+  affiliation: Maastricht university
+  country: the Netherlands
 
 ---
 
@@ -65,9 +65,9 @@ Objective C. To be acquainted with the contribution pipeline in MHub.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
-
-
+1. Prepared the model structure for MHUB contribution according titorials.
+2. Worked on the model running pipeline starting with image pre-processing steps.
+3. Next: still need to finish the Docker file with all requirements. 
 
 
 # Illustrations
